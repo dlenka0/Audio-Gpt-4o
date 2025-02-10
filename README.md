@@ -70,7 +70,7 @@ ffmpeg -i input.mp3 input.wav  # Replace mp3 with your audio format
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request
 
 ## License
 
